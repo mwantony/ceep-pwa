@@ -1,0 +1,12 @@
+{
+    "name": "Ceep",
+    "start_url": "./",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "img/palette.svg",
+            "sizes": "150x150",
+            "type": "image/png"
+        }
+    ]
+}
